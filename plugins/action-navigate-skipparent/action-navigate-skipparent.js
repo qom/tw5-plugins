@@ -1,10 +1,3 @@
-created: 20180218003241498
-modified: 20180218045507319
-module-type: widget
-tags: 
-title: $:/om/modules/widgets/action-navigate-skipparent.js
-type: application/javascript
-
 /*\
 title: $:/om/modules/widgets/action-navigate-skipparent.js
 type: application/javascript
